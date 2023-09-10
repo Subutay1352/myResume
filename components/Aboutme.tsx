@@ -24,9 +24,9 @@ const Aboutme = () => {
           effectively with cross-functional teams and am comfortable taking on
           new challenges and learning new technologies as needed.
         </p>
-        <p>
+        <p></p>
           I am always looking to improve my skills and stay up-to-date with the
-          latest best practices in web development. I am excited to continue
+          latest best practices in Embedded/IoT development. I am excited to continue
           growing as a developer and making meaningful contributions to projects
           and teams.
         </p>
