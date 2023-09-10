@@ -7,7 +7,7 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          I am an Embedded/IoT Software Developer with 4+ years of experience. As an 
+          I am an Embedded/IoT Software Developer with 2 years of experience. As an 
           Embedded/IoT Software Developer; I design and develop firmware and
           software for various embedded and IoT devices, using C, C++ and Python.
           I have experience in working with bare metal and RTOS platforms,
