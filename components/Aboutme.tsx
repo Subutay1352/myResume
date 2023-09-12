@@ -12,14 +12,13 @@ const Aboutme = () => {
           software for various embedded and IoT devices, using C, C++ and Python.
           I have experience in working with bare metal and RTOS platforms,
           as well as wireless communication technologies such as BLE and WiFi.
-          I completed multiple certifications in C, C++, embedded software, hardware
-          architecture and microcontroller programming which demonstrating my passion
-          and commitment to learning and improving my skills. 
-          Additionally, I have desktop and mobile application development skills using
-          C#WF, Xamarin, and Android Java, as well as data analysis and visualization 
-          skills using Numpy, Matplotlib, and PyQt. I am highly motivated to apply my 
-          knowledge and expertise to create innovative and impactful solutions for the 
-          Embedded/IoT industry. In addition to my technical skills, I am a strong 
+          I completed multiple certifications in C, C++, embedded software, hardware 
+          architecture and microcontroller programming which demonstrating my passion 
+          and commitment to learning and improving my skills. Additionally, I have desktop,
+          web and mobile application development skills using C#WF, Xamarin, and Android Java, 
+          as well as Python, HTML5, JS. I am highly motivated to apply my knowledge and 
+          expertise to create innovative and impactful solutions for the Embedded/IoT 
+          industry. In addition to my technical skills, I am a strong 
           communicator and team player. I am able to work
           effectively with cross-functional teams and am comfortable taking on
           new challenges and learning new technologies as needed.
